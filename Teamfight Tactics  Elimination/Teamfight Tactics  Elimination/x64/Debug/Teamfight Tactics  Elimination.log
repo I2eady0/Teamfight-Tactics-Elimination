@@ -1,0 +1,4 @@
+﻿  project1.cpp
+D:\vs2022_code\Teamfight Tactics  Elimination\Teamfight Tactics  Elimination\Teamfight Tactics  Elimination\project1.cpp(64,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\vs2022_code\Teamfight Tactics  Elimination\Teamfight Tactics  Elimination\Teamfight Tactics  Elimination\project1.cpp(111,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Teamfight Tactics  Elimination.vcxproj -> D:\vs2022_code\Teamfight Tactics  Elimination\Teamfight Tactics  Elimination\x64\Debug\Teamfight Tactics  Elimination.exe
